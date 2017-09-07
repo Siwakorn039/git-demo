@@ -1,1 +1,1 @@
-hello form github
+This is a readme filr for stamp & snow home page
